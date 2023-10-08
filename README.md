@@ -1,6 +1,6 @@
 This repository is meant to be a directory for arbitrary programs with varying functionality
 
-- list_comprehension:
+- "list_comprehension.py":
 
     -- This program takes 4 inputs (x, y, z, n)
  
@@ -8,6 +8,6 @@ This repository is meant to be a directory for arbitrary programs with varying f
 
     -- The printed output is the list of lists whose sum does not equal n
 
- - find_runner_up:
+ - "find_runner_up.py":
     
     -- This program serves to find the second highest value in an array
